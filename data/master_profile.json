@@ -1,0 +1,123 @@
+{
+  "name": "Nishant Babasaheb Survase",
+  "contact": {
+    "email": "nishantsurvase98@gmail.com",
+    "phone": "+91 93568 93551",
+    "linkedin": "https://www.linkedin.com/in/nishant-survase-771884251/",
+    "github": "https://github.com/nish13nt",
+    "trailhead": "https://www.salesforce.com/trailblazer/nish13nt"
+  },
+  "summary": "Final-year B.Tech Computer Science student and Salesforce Developer Intern skilled in Python, Apex, and AI tool integration. Proven experience in architecting CRM automation workflows, developing full-stack mobile applications, and deploying scalable data models to drive operational efficiency.",
+  "skills": [
+    "Python", 
+    "C++", 
+    "MySQL", 
+    "Salesforce (Apex, SOQL, Flows, Agentforce, Salesforce Admin)",
+    "Testing Frameworks (Apex Test Classes)", 
+    "Git", 
+    "GitHub", 
+    "VS Code", 
+    "n8n", 
+    "Zapier",
+    "Make.com", 
+    "Claude", 
+    "ChatGPT", 
+    "Gemini", 
+    "Emergent", 
+    "Codex", 
+    "RestAPI", 
+    "Flutter",
+    "Unity", 
+    "Data Structures & Algorithms", 
+    "Operating Systems", 
+    "DBMS",
+    "Object-Oriented Programming", 
+    "Computer Networks"
+  ],
+  "education": [
+    {
+      "institution": "JSPM's Rajarshi Shahu College of Engineering, Pune",
+      "degree": "B.Tech Computer Science & Business Systems",
+      "duration": "Nov 2022 - June 2026",
+      "score": "CGPA: 9.02"
+    },
+    {
+      "institution": "Army Public School, Devlali",
+      "degree": "Higher Secondary Examination, CBSE",
+      "duration": "April 2020 - June 2022",
+      "score": "Percentage: 83.4%"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Tata Consultancy Services",
+      "role": "Salesforce Developer Intern - Jaguar Land Rover Project",
+      "duration": "Jan 2026 - Jul 2026",
+      "bullets": [
+        "Developed and customized Salesforce solutions using Apex, SOQL, and Flows to automate business processes and improve operational efficiency.",
+        "Architected CRM automation workflows and implemented automated test suites for Apex integrations, achieving required code coverage to ensure a stable and scalable trusted platform."
+      ]
+    },
+    {
+      "company": "Glow Genesis Skincare Pvt. Ltd.",
+      "role": "Software Development Intern",
+      "duration": "Sept 2024 - Feb 2025",
+      "bullets": [
+        "Developed and enhanced Flutter application features, improving user experience, application responsiveness, and overall performance.",
+        "Integrated APIs, resolved application issues, and collaborated with the development team to deliver stable and scalable mobile solutions."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Railway Station Navigation System (Capstone Project)",
+      "year": "2026",
+      "bullets": [
+        "Architected, designed, and implemented a highly scalable AR indoor navigation solution using Flutter, Unity, and A* routing to guide users across multi-point indoor paths with step-wise directions.",
+        "Implemented and optimized FastAPI APIs for route generation and navigation updates, reducing response latency and enabling near real-time user guidance."
+      ]
+    },
+    {
+      "name": "Customer Churn Prediction Platforms",
+      "year": "2025",
+      "bullets": [
+        "Developed a machine learning-based customer churn prediction platform using Python, SQL, Pandas, and Scikit-Learn to analyze 7,000+ customer records and identify customers at risk of churn.",
+        "Performed data preprocessing and predictive modeling, utilizing dashboard visualizations to track key metrics and user data, driving operational excellence and generating actionable customer retention insights."
+      ]
+    },
+    {
+      "name": "Generative AI Job Application Assistant",
+      "year": "2025",
+      "bullets": [
+        "Developed an AI-powered job application assistant using Google Gemini to analyze resumes, extract job requirements, perform candidate-job matching, and generate tailored resume content in structured JSON format.",
+        "Implemented automated cover letter generation, resume optimization, and NLP-based content enhancement to improve keyword relevance, skill alignment, and ATS compatibility for job applications."
+      ]
+    }
+  ],
+  "leadership": [
+    {
+      "title": "Co-Organizer",
+      "organization": "TEDxJSPMRSCOE",
+      "duration": "2024-2025",
+      "bullets": [
+        "Led teams to plan and execute TEDxJSPMRSCOE event, managing speakers and core operations.",
+        "Handled logistics, promotions, and audience engagement to deliver a polished TEDx experience."
+      ]
+    },
+    {
+      "title": "Training and Placement Co-ordinator",
+      "organization": "RSCOE",
+      "duration": "2024-2025",
+      "bullets": [
+        "Coordinated between students, faculty, and recruiters to support placement and training activities.",
+        "Assisted in organizing placement drives, pre-placement talks, and student training sessions."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Salesforce Certified Agentforce Specialist",
+      "date": "Dec 2025"
+    }
+  ]
+}
